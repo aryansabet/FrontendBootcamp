@@ -15,18 +15,49 @@ timeline
     section Week 1 <br> HTML/CSS
         Session 1 
             : Introduction to Internet 
-            : HTML 
+            : HTML <br> (p a img form)
+            : HTML reverse <br> (List - Table)
+        Session 2 
+            : CSS <br> basic + selector
+            : CSS <br> Position
+
+        Session 3 
+            : Grid
+            : Flex
+            : Tailwind <br> (intro)
+            
+        Mini Project
+
+    section Week 2 <br> Javascript
+        Session 1 
+            : Introduction
+            : Data Types
+            : Booleans, Operators, Date
+            : Conditionals
         Session 2 
             : HTML 
             : CSS
         Session 3 
             : CSS 
             : Tailwind
-            
-    section Week 3 <br> HTML/CSS
+    section Week 3 <br> Javascript
         Session 1 
-            : Introduction to Internet 
+            : Introduction
+            : Data Types
+            : Booleans, Operators, Date
+            : Conditionals
+        Session 2 
             : HTML 
+            : CSS
+        Session 3 
+            : CSS 
+            : Tailwind
+    section Week 4 <br> Javascript
+        Session 1 
+            : Introduction
+            : Data Types
+            : Booleans, Operators, Date
+            : Conditionals
         Session 2 
             : HTML 
             : CSS
