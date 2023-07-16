@@ -37,8 +37,8 @@ timeline
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'default' , 'themeVariables': {
               'cScale0': '#64889D',
-              'cScale1': '#EF6262',
-              'cScale2': '#42657E',
+              'cScale1': '#F3AA60',
+              'cScale2': '#EF6262',
               'cScale3': '#1C3754',
               'cScale4': '#42657E',
               'cScale5': '#557C93',
@@ -50,17 +50,21 @@ timeline
         Session 1 <br>(Yasaman) <br> 4/31
             : 1 - Introduction
             : 2 - Data Types
-            : 3 - Booleans, Operators, Date
+            : 3 - Booleans, Operators
             : 4 - Conditionals
             : 13 - Console Object Methods
+            : 5	- Arrays
         Session 2 <br>(Yasaman) <br> 5/2
             : 7 - Functions
-            : 5	- Arrays
             : 6	- Loops
-        Session 3 <br>(Yasaman) <br> 5/4
-            : 8 - Objects
-            : 16 - JSON
-            : 9 - Higher Order Functions <br> (map & filter)
+            : 21 - DOM <br> querySelect - inner html
+        Session 3 <br> (Yasaman) <br> 5/4
+            : 22 - Manipulating DOM Object
+            : 23 - Event Listeners
+
+    section On Class Project
+        Options
+            : Epic Mix
     section HomeWorks 
         Quera Copyable Questions <br> ____________ <br> JS only - UI-less<br> terminal & console
             : part 1 <br> 5/1
@@ -76,7 +80,7 @@ timeline
 %%{init: { 'logLevel': 'debug', 'theme': 'default' , 'themeVariables': {
               'cScale0': '#64889D',
               'cScale1': '#F3AA60',
-              'cScale2': '#42657E',
+              'cScale2': '#F3AA60',
               'cScale3': '#1C3754',
               'cScale4': '#42657E',
               'cScale5': '#557C93',
@@ -85,24 +89,21 @@ timeline
        }  } }%%
 timeline
 section Week 3 <br> Javascript Advanced 
-        Session 1 <br> (Erfan) <br> 5/7
+        Session 1 <br> (Aryan) <br> 5/11
+            : 8 - Objects
+
+            : 9 - Higher Order Functions <br> (map & filter)
+        Session 2 <br> (Erfan) <br> 5/7
 
             : 10 - Destructuring and Spreading
             : 12 - Regular Expressions
             : 14 - Error Handling
-        Session 2 <br> (Erfan) <br> 5/9
+        Session 3 <br> (Erfan) <br> 5/9
+            : 16 - JSON ,Objects ,Date
             : 15 - Closure
-        Session 3 <br> (Aryan) <br> 5/11
-            : 21 - DOM
-            : 22 - Manipulating DOM Object
-            : 23 - Event Listeners
 
-section On Class Project
-        Options
-            : Calculator
-            : Porfolio
-            : Js Sabad Kharid increment decrement
-            : buy me a coffee
+
+
 
 
 ```
